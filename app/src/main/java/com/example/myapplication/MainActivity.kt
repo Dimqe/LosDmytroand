@@ -53,3 +53,6 @@ fun GreetingPreview() {
         )
     }
 }
+fun onCreate() {
+    println("Hello"  // ❌ забута закриваюча дужка
+}
